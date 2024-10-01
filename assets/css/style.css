@@ -1311,6 +1311,14 @@ body{
       line-height: 30px;
   }
 
+  .contact-box-font-1 {
+    font-size: 17px;
+  }
+
+  .contact-box-line-1 {
+    line-height: 59px !important;
+  }
+
 
   /*contact-page-css*/
 /*team-page-css*/
