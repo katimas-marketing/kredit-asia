@@ -71,9 +71,32 @@ body{
     font-size: 18px;
     font-weight: 400;
 }
-.nav-link:hover{
-    color: var(--accent) !important;
+/* .nav-link:hover{
+    color: #0ad3ef!important;
+} */
+
+.nav-item .nav-link:hover {
+    color: #0ad3ef !important;
 }
+
+/* custom footer hover start */
+.footer-item{
+    padding: none;
+}
+.footer-link{
+    font-size: 16px;
+    font-weight: 400;
+}
+/* .nav-link:hover{
+    color: #0ad3ef!important;
+} */
+
+.footer-item .footer-link:hover {
+    color: #0ad3ef !important;
+}
+
+/* footer item hover end */
+
 .header-con .form-inline a{
     text-decoration: none;
 }
